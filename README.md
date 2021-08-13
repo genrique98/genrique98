@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @genrique98
 - 👀 I’m interested in back-end software engineering
 - ✨ I have experience with:
-  - ReactJS, Node.js, Python, Flask, SQLite
+  - JavaScript, ReactJS, Node.js, Python, Flask, SQLite, Java, C++
 - 🌱 I’m currently learning:
   - Angular, Express, Typescript, Postgres, JWT, and unit testing with Jasmine.
   - AWS, Docker, CircleCI, Git, Bash
