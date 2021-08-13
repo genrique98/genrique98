@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @genrique98
 - 👀 I’m interested in back-end software engineering
-- 🌱 I’m currently learning Node.js, Express, Typescript, Postgres, JWT, and unit testing with Jasmine.
-- 💞️ I’m looking to collaborate on small projects to learn new technologies
+- ✨ I have experience with:
+  - ReactJS, Node.js, Python, Flask, SQLite
+- 🌱 I’m currently learning:
+  - Angular, Express, Typescript, Postgres, JWT, and unit testing with Jasmine.
+  - AWS, Docker, CircleCI, Git, Bash
+  - Testing out projects such as Gatsby, Next, and Vite.
+  - Concepts such as design patterns (MVC), REST API's, AGILE, 
+-   
 - 📫 You can reach me here:
   - https://www.linkedin.com/in/gabriel-ramirez-7708b9190/
   - egramirez.gabriel@gmail.com
