@@ -7,7 +7,6 @@
   - AWS, Docker, CircleCI, Git, Bash
   - Testing out projects such as Gatsby, Next, and Vite.
   - Concepts such as design patterns (MVC), REST API's, AGILE, 
--   
 - 📫 You can reach me here:
   - https://www.linkedin.com/in/gabriel-ramirez-7708b9190/
   - egramirez.gabriel@gmail.com
