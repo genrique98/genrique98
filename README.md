@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @genrique98
+- 👋 Hi, I’m Gabe
 - 👀 I’m interested in back-end software engineering
 - ✨ I have experience with:
   - JavaScript, ReactJS, Node.js, Python, Flask, SQLite, Java, C++
