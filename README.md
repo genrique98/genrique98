@@ -2,8 +2,8 @@
 - 👀 I’m interested in back-end software engineering
 - ✨ I have experience with:
   - JavaScript, ReactJS, Node.js, Python, Flask, SQLite, Java, C++
-  - Concepts such as Object Oriented Programming, Algorithm Design and Analysis, Data Structures, writing self-documenting code.
-  - UML, writing use cases, designing database schemas, data modeling
+  - Concepts such as Object Oriented Programming, Algorithm Design and Analysis, and Data Structures.
+  - UML, writing use cases, designing database schemas, data modeling, and writing self-documenting code.
 - 🌱 I’m currently learning:
   - Angular, Express, Typescript, Postgres, JWT, and unit testing with Jasmine.
   - AWS, Docker, CircleCI, Git, Bash
