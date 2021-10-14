@@ -10,8 +10,8 @@
     - UML, writing use cases, designing database schemas, data modeling, and writing self-documenting code.
 - 🌱 I’m currently learning:
   - AGILE development
-  - Graphql Dataloader
-  - Trying out projects such as Gatsby, Next, and Vite.
+  - Go
+  - Trying out projects such as Next, and Vite.
 - 📫 Open to work. You can reach me here:
   - https://www.linkedin.com/in/gabrielramirez98/
   - egramirez.gabriel@gmail.com
