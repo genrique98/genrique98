@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Gabe
 - 👀 I’m interested in back-end software engineering
 - ✨ I have experience with:
-  - Typescript, ReactJS, NextJS, Angular, Node.js, Apollo Graphql 
+  - Typescript, ReactJS, NextJS, Angular, Node.js,
   - Python (Flask), Docker, Java, C++, SQL
   - AWS (S3, Elastic Beanstalk, Lambda and RDS), CircleCI, Git, Bash
   - Concepts:
     - Object Oriented Programming, Algorithm Design and Analysis, and Data Structures.
-    - Design patterns (MVC), CI/CD, REST and Graphql API's, and unit testing (with Jasmine).
+    - Design patterns (MVC), CI/CD, REST APIs, and unit testing (with Jasmine).
     - UML, writing use cases, designing database schemas, data modeling, and writing self-documenting code.
 - 🌱 I’m currently learning:
   - Data Analysis with Python
